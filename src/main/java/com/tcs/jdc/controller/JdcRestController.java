@@ -18,6 +18,7 @@ public class JdcRestController {
 		list.add("Akash");
 		list.add("Neha");
 		list.add("Kuntal");
+		list.add("Siddharth");
 		
 		return list;
 		
